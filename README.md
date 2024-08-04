@@ -61,25 +61,39 @@ Here are some ideas to get you started:
   </ul>
 </div>
 <!--tech stack icons-->
-  <p align="left">
-    <h3>Website Development</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=6" /> 
-</p>
-<p align="left">
-    <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=php,express,py,flask,java,spring&perline=6" /> 
-</p>
-<p align="left">
-    <h3>Framework</h3>
-    <img src="https://skillicons.dev/icons?i=react,laravel,flutter&perline=6" /> 
-</p>
-<p align="left">
-    <h3>Database</h3>
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&perline=6" /> 
-</p>
-<p align="left">
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,figma,ps&perline=6" /> 
+<p align="center">
+  <table align="center">
+  <tr border="none">
+    <td align="left" width="50%">
+      <p align="left">
+          <h3>Website Development</h3>
+          <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=6" /> 
+      </p>
+      <p align="left">
+          <h3>Framework</h3>
+          <img src="https://skillicons.dev/icons?i=react,laravel,flutter&perline=6" /> 
+      </p>
+      <p align="left">
+          <h3>Tools</h3>
+          <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker&perline=6" /> 
+      </p>
+    </td>
+    <td align="left" width="50%">
+      <p align="left">
+          <h3>Backend</h3>
+          <img src="https://skillicons.dev/icons?i=php,express,py,flask,java,spring&perline=6" /> 
+      </p>
+      <p align="left">
+          <h3>Database</h3>
+          <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&perline=6" /> 
+      </p>
+      <p align="left">
+          <h3>Others</h3>
+          <img src="https://skillicons.dev/icons?i=figma,ps&perline=6" /> 
+      </p>
+    </td>
+  </tr>
+</table>
 </p>
 
 <!-- Connect with me -->
