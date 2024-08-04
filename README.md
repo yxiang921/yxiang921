@@ -61,25 +61,38 @@ Here are some ideas to get you started:
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-    
-  </a>
+  <p align="left">
+    <h3>Website Development</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=6" /> 
+</p>
+<p align="left">
+    <h3>Backend</h3>
+    <img src="https://skillicons.dev/icons?i=php,express,py,flask,java,spring&perline=6" /> 
+</p>
+<p align="left">
+    <h3>Framework</h3>
+    <img src="https://skillicons.dev/icons?i=react,laravel,flutter&perline=6" /> 
+</p>
+<p align="left">
+    <h3>Database</h3>
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&perline=6" /> 
+</p>
+<p align="left">
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,figma,ps&perline=6" /> 
 </p>
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block;">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/yong-xiang/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
 
