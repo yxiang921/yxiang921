@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=32&pause=1000&color=2C94F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Foo+Yong+Xiang;Software+Developer+in+Malaysia" alt="Typing SVG" /></summary>
+    <summary><h1 style="display: inline-block"><img src="https://readme-typing-svg.demolab.com?font=roboto&weight=800&size=26&pause=1000&color=2C94F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Foo+Yong+Xiang;Software+Developer+in+Malaysia" alt="Typing SVG" /></summary>
   </ul>
 </div>
 
