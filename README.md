@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=yxiang921&show_icons=true&locale=en&layout=compact" alt="simjiayang" /></p>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=yxiang921&show_icons=true&locale=en&layout=compact" alt="fooyongxiang" /></p>
   
   </td>
 </tr>
