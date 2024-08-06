@@ -81,7 +81,7 @@ Here are some ideas to get you started:
     <td align="left" width="50%">
       <p align="left">
           <h3>Backend</h3>
-          <img src="https://skillicons.dev/icons?i=php,express,py,flask,java,spring&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=php,express,java,spring&perline=6" /> 
       </p>
       <p align="left">
           <h3>Database</h3>
