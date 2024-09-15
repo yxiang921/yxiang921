@@ -51,7 +51,7 @@
     <td align="left" width="50%">
       <p align="left">
           <h3>Website Development</h3>
-          <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&perline=6" /> 
       </p>
       <p align="left">
           <h3>Framework</h3>
