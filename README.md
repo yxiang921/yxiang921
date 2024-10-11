@@ -48,7 +48,7 @@
     <td align="left" width="50%">
       <p align="left">
           <h3>Website Development</h3>
-          <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap&perline=6" /> 
       </p>
       <p align="left">
           <h3>Framework</h3>
@@ -56,7 +56,7 @@
       </p>
       <p align="left">
           <h3>Tools</h3>
-          <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,notion&perline=6" /> 
       </p>
     </td>
     <td align="left" width="50%">
