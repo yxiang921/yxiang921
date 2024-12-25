@@ -66,7 +66,7 @@
       </p>
       <p align="left">
           <h3>Database</h3>
-          <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" /> 
       </p>
       <p align="left">
           <h3>Others</h3>
