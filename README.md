@@ -52,7 +52,7 @@
       </p>
       <p align="left">
           <h3>Framework</h3>
-          <img src="https://skillicons.dev/icons?i=react,laravel,flutter&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=react,laravel,codeigniter,flutter,angular&perline=6" /> 
       </p>
       <p align="left">
           <h3>Tools</h3>
