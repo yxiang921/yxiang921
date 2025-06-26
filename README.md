@@ -4,17 +4,6 @@
   </ul>
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-PHP              2 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   46.03 %
-Blade Template   1 hr 15 mins    ███████░░░░░░░░░░░░░░░░░░   27.57 %
-Vue.js           35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-HTML             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-JavaScript       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-```
-
-<!--END_SECTION:waka-->
 
 <p align="center">
   <!--- stats (start) -->
@@ -45,6 +34,11 @@ JavaScript       8 mins          ▓░░░░░░░░░░░░░░�
 
 </p>        
 <!--- stats (end) -->
+
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 <!--h1 without bottom border-->
