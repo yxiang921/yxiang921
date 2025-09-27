@@ -107,7 +107,7 @@ Apache Config     0 secs          ░░░░░░░░░░░░░░░�
       </p>
       <p align="left">
           <h3>Others</h3>
-          <img src="https://skillicons.dev/icons?i=figma,ps&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=linux,wordpress,figma,ps&perline=6" /> 
       </p>
     </td>
   </tr>
